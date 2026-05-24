@@ -15,14 +15,15 @@ This repository serves as a personal knowledge base and portfolio of practical I
 |# |Issue                                                           |Device                   |Category       |
 |--|----------------------------------------------------------------|-------------------------|---------------|
 |01|[Secure Boot / Boot Failure](./lenovo-legion-secure-boot-fix.md)|Lenovo Legion Y7000P-1060|Hardware / BIOS|
-|02| Missing WiFi, touchscreen & touchpad drivers after Windows install | HP OmniBook X Flip 14 | Windows OS | [View](hp-omnibook-driver-recovery.md) | ✅ Resolved |
+|02| [Missing WiFi, touchscreen & touchpad drivers after Windows install](hp-omnibook-driver-recovery.md) | HP OmniBook X Flip 14 | Hardware / BIOS | ✅ Resolved |
+
 
 
 -----
 
 ## Categories
 
-- **Hardware / BIOS** – Boot issues, firmware configuration, device detection
+- *Hardware / BIOS** – Boot issues, firmware configuration, device detection
 - **Networking** – Connectivity, DNS, firewall troubleshooting *(coming soon)*
 - **Windows OS** – System errors, updates, driver issues *(coming soon)*
 - **Linux** – CLI, permissions, service failures *(coming soon)*
