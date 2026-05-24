@@ -31,7 +31,7 @@ This repository serves as a personal knowledge base and portfolio of practical I
 
 IT professional in training with CompTIA A+ certified. Currently pursuing Network+ and Security+ while building hands-on experience through a personal homelab and real-world troubleshooting.
 
-- 🔧 Homelab: [Homelab-Projects](https://github.com/YOUR_USERNAME/Homelab-Projects)
+- 🔧 Homelab: [Homelab-Projects] (https://github.com/Abyxion/Homelab-Projects)
 - 📜 Certifications: CompTIA A+ | Network+ *(in progress)* | Security+ *(in progress)*
 
 -----
