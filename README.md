@@ -16,6 +16,8 @@ This repository serves as a personal knowledge base and portfolio of practical I
 |--|----------------------------------------------------------------|-------------------------|---------------|
 |01|[Secure Boot / Boot Failure](./lenovo-legion-secure-boot-fix.md)|Lenovo Legion Y7000P-1060|Hardware / BIOS|
 |02| [Missing WiFi, touchscreen & touchpad drivers after Windows install](hp-omnibook-driver-recovery.md) | HP OmniBook X Flip 14 | Hardware / BIOS | ✅ Resolved |
+| [Thermal repaste & fan cleaning — overheating diagnosis](lenovo-legion-thermal-repaste.md) | Lenovo Legion Y7000P-1060 | Hardware Repair | ✅ Resolved |
+
 
 
 
